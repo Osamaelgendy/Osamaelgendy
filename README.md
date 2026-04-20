@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Osamaelgendy, I'm a data engineer at Ligadata.
-- 👀 I’m interested in Machine Learning & Data Engineering.
-- 🌱 I’m currently learning different areas of Data engineering.
+- 👋 Hi, I’m @Osamaelgendy, I'm a data engineer at Robusta Studio.
+- 👀 I’m interested in AI intersection with Data Engineering.
 - 📫 How to reach me: osama.fathy.elgendy@gmail.com & www.linkedin.com/in/osamaelgendy
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Osamaelgendy&label=Profile%20views&color=0e75b6&style=flat" alt="Osamaelgendy" /> </p>
 <!---
